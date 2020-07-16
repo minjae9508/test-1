@@ -79,3 +79,4 @@
 
 ![이미지 연습](http://kyrieko.dothome.co.kr/images/first.jpg)
 
+![아기 고양이](./images/cat.jpg)
